@@ -1,0 +1,2 @@
+#!/bin/sh
+prelink-rtld --root=/home/blackrose/MYS-6ULX-devel/fsl-release-yocto/myd-y6ulg2/tmp/sysroots/myd-y6ul14x14 "$@"
